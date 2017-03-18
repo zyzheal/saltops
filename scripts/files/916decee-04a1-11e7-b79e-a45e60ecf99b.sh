@@ -1,0 +1,1 @@
+ps -ef|grep ${进程名称:thread_name}
